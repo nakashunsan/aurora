@@ -1,13 +1,13 @@
-# Aurora v2
+# Aurora v1x
 
-Aurora v2のデザインおよび制作物を管理する作業ディレクトリです。
+Aurora v1xのデザインおよび制作物を管理する作業ディレクトリです。
 
 ## 現在の成果物
 
-- `Aurora-v2-outfit-concept.png`：衣装デザインの初期コンセプト
-- `Aurora-v2-casual-A-city.png`：ライトジャケットを中心とした街着案
-- `Aurora-v2-casual-B-sporty.png`：トラックジャケットを中心としたスポーティ案
-- `Aurora-v2-casual-C-layered.png`：シャツジャケットを中心としたレイヤード案
+- `Aurora-v1x-outfit-concept.png`：衣装デザインの初期コンセプト
+- `Aurora-v1x-casual-A-city.png`：ライトジャケットを中心とした街着案
+- `Aurora-v1x-casual-B-sporty.png`：トラックジャケットを中心としたスポーティ案
+- `Aurora-v1x-casual-C-layered.png`：シャツジャケットを中心としたレイヤード案
 
 この画像は、Aurora v1をキャラクター同一性の参照として使用し、AI画像生成によって
 制作したコンセプトです。VRoid用の完成モデルや完成テクスチャではありません。

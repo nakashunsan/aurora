@@ -1,11 +1,11 @@
 # Casual C: Soft Layered Casual
 
-生成画像：`../Aurora-v2-casual-C-layered.png`
+生成画像：`../Aurora-v1x-casual-C-layered.png`
 
 参照画像：
 
 - `../../Aurora v1/Aurora - v1.png`：キャラクター同一性の基準
-- `../Aurora-v2-outfit-concept.png`：配色のみの参考
+- `../Aurora-v1x-outfit-concept.png`：配色のみの参考
 
 ```text
 Use case: stylized-concept

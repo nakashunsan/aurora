@@ -1,6 +1,6 @@
-# Aurora v2 Image Generation Prompts
+# Aurora v1x Image Generation Prompts
 
-Aurora v2の衣装コンセプト画像を生成するために使用したプロンプトを保存しています。
+Aurora v1xの衣装コンセプト画像を生成するために使用したプロンプトを保存しています。
 
 ## 生成方式
 
