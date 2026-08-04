@@ -1,10 +1,13 @@
 Aurora キャラクター・素材利用ライセンス
-バージョン1.1
 
 Copyright (c) nakashunsan. All rights reserved.
 
 本ライセンスは、オリジナルキャラクター「Aurora」および本リポジトリで公開される
 ファイルに適用されます。
+
+Auroraの3DモデルはVRoid Studioを使用して制作されています。VRoidはpixiv株式会社の
+商標または登録商標です。本キャラクターおよび本リポジトリは、pixiv株式会社の公式、
+協賛、承認または推奨によるものではありません。
 
 1. 定義
 
@@ -17,6 +20,10 @@ nakashunsanが本ライセンスを許諾するために必要な権利を有す
 「モデルデータ」とは、本キャラクターの制作または表現に使用されるVRoid、VRM、
 3Dモデル、モデルの元データ、テクスチャ、リグその他これらに類するデータをいい、
 本リポジトリに含まれているか否かを問いません。
+
+「外部素材」とは、VRoid Studioもしくはpixiv株式会社が提供する素体、メッシュ、衣装、
+プリセットその他のデータ、または第三者が提供する衣装、髪型、テクスチャ、アイテム
+その他の素材をいいます。
 
 「第三者制作物」とは、nakashunsan以外の者が制作したイラストその他の著作物を
 いいます。
@@ -44,10 +51,15 @@ nakashunsanの事前の許諾を得ることなく、本キャラクターを描
 
 4. モデルデータはnakashunsan本人のみ利用可能
 
-モデルデータの利用は、nakashunsan本人にのみ認められます。その他の者は、nakashunsan
-の事前の許可なく、モデルデータを使用、操作、複製、改変、変換、アップロード、頒布
-または公開してはなりません。モデルデータを所持し、またはこれにアクセスできることを
-もって、その利用が許諾されるものではありません。
+完成したAuroraのモデルデータの利用は、nakashunsanが権利を有する範囲において、
+nakashunsan本人にのみ認められます。その他の者は、nakashunsanの事前の許可なく、当該
+モデルデータを使用、操作、複製、改変、変換、アップロード、頒布または公開してはなり
+ません。モデルデータを所持し、またはこれにアクセスできることをもって、その利用が
+許諾されるものではありません。
+
+本条は、外部素材それ自体について、その権利者が定める条件の範囲内で行われる独立した
+利用を制限し、またはnakashunsanが当該外部素材に関する権利を有すると主張するものでは
+ありません。
 
 5. 他のクリエイターが制作した作品の権利
 
@@ -64,6 +76,10 @@ nakashunsanの事前の許諾を得ることなく、本キャラクターを描
 nakashunsanが制作したリポジトリ素材は、機械学習、ファインチューニングおよびAIを
 利用した画像生成を含む、人工知能システムへの入力として利用できます。AIで生成した
 成果物は、本ライセンスのその他の条件および適用法令に従って制作・公表できます。
+
+本条による許諾は、nakashunsanが許諾する権限を有する範囲に限られます。リポジトリ素材
+に外部素材が含まれ、または外部素材が表現されている場合、その利用には、VRoid Studio、
+pixiv株式会社または各第三者が定める利用規約、ライセンスその他の条件も適用されます。
 
 第三者制作物は、当該制作者が別途明示的に許可した場合を除き、機械学習、ファイン
 チューニング、データセット作成、作品の複製物をアップロードもしくはリンクして行う
@@ -96,18 +112,62 @@ e. リポジトリ素材に含まれる著作権表示を削除し、または�
 
 9. 権利の帰属および留保
 
-本キャラクター、モデルデータおよびオリジナルのリポジトリ素材に関する著作権その他の
-権利はnakashunsanに留保されます。各制作者が独自に創作した部分に関する権利は、基礎と
-なる本キャラクターの権利に従うことを条件として、存在する場合、各制作者に帰属します。
-本ライセンスは、本キャラクターおよびリポジトリ素材の限定的な利用を許諾するものであり、
+本キャラクター、モデルデータおよびリポジトリ素材のうち、nakashunsanが独自に創作した
+部分に関する著作権その他の権利はnakashunsanに留保されます。外部素材に関する権利は、
+VRoid Studio、pixiv株式会社または各第三者など、それぞれの権利者に帰属します。
+
+各制作者が独自に創作した部分に関する権利は、基礎となる本キャラクターおよび使用した
+外部素材の権利に従うことを条件として、存在する場合、各制作者に帰属します。本ライセンス
+は、nakashunsanが許諾する権限を有する範囲において限定的な利用を許諾するものであり、
 権利を譲渡するものではありません。明示的に許諾されていないすべての権利は留保されます。
 著作者人格権その他これに類する権利は、適用法令で認められる範囲において留保されます。
 
-10. 第三者の権利
+10. 外部素材の権利および利用条件の優先
 
-本ライセンスが対象とするのは、nakashunsanが保有する権利のみです。利用に必要なその他の
-許可を得ること、および適用法令、プラットフォームの規約、第三者の権利を遵守することは、
-利用者の責任とします。
+本ライセンスが対象とするのは、nakashunsanが保有し、かつ許諾する権限を有する権利のみ
+です。本ライセンスは、VRoid Studio、pixiv株式会社または第三者の利用規約、ライセンス
+その他の条件により認められる範囲でのみ適用されます。これらの条件と本ライセンスが
+矛盾する場合、当該外部素材については、その権利者が定める条件が優先されます。
+
+特別な利用条件が設定されたVRoid Studioのアイテム、サンプルモデル、または第三者から
+取得した素材を利用する場合、利用者は当該条件を自ら確認し、遵守しなければなりません。
+利用に必要なその他の許可を得ること、および適用法令、プラットフォームの規約、第三者の
+権利を遵守することは、利用者の責任とします。
+
+10.1. 使用している第三者素材：Parker Set EC-Sky
+
+Auroraは、eguの魔窟が販売し、@Schelmm39_Arvuが権利を有するVRoid用衣装
+「Parker Set EC-Sky」を使用しています。
+
+商品ページ： https://booth.pm/items/2228611
+制作者連絡先（X）： @Schelmm39_Arvu
+確認した利用規約の日付：2021年4月30日
+
+当該衣装には、制作者が定める次の条件が適用されます。
+
+a. 色彩変更および他ツールを使用したサイズ変更などの改変は認められます。ただし、
+   テクスチャの一部を切り取り、他店の衣装テクスチャと組み合わせることは禁止されます。
+   自作衣装との組み合わせは認められます。
+b. 他店の衣装またはモデルデータと組み合わせる場合は、それらの利用規約にも従わなければ
+   なりません。
+c. 当該データを着用した動画、画像および配信への利用は認められます。有償または営利目的で
+   利用する場合は、事前に上記の制作者連絡先へ問い合わせなければなりません。
+d. 当該衣装を着用したアバターをプラットフォームで公開する場合、第三者がダウンロード
+   または利用できない設定にしなければなりません。
+e. 当該データまたはその改変物を、有償・無償を問わず配布または販売してはなりません。
+   第三者がダウンロードできる状態でのアップロード、VRoid Hubにおける「他の人の利用OK」
+   の設定、およびVRChatにおけるペデスタルでの公開も禁止されます。
+f. 改変の有無にかかわらず、当該衣装またはデータを自作したと表示してはなりません。
+g. 当該衣装のクレジット表示は任意です。著作権は制作者に留保されます。
+h. 制作者は当該データの利用によるトラブルについて責任を負いません。また、利用規約、
+   データ、販売および価格は予告なく変更される場合があります。
+
+当該衣装またはそのテクスチャについて、本ライセンスはAI学習、ファインチューニング、
+データセット作成またはAI生成への利用を許諾しません。Auroraの画像に表現された当該衣装を
+これらの用途に利用する場合も、@Schelmm39_Arvuから別途明示的な許可を得てください。
+
+本項は、2021年4月30日付の日本語の利用規約を分かりやすく整理したものです。商品ページに
+掲載された制作者の利用規約と本項が矛盾する場合は、商品ページの利用規約が優先されます。
 
 11. 無保証および責任の制限
 
@@ -123,12 +183,15 @@ e. リポジトリ素材に含まれる著作権表示を削除し、または�
 
 
 AURORA CHARACTER AND ASSET LICENSE
-Version 1.1
 
 Copyright (c) nakashunsan. All rights reserved.
 
 This license applies to the original character "Aurora" and the files made
 available in this repository.
+
+The 3D model of Aurora was created using VRoid Studio. VRoid is a trademark or
+registered trademark of pixiv Inc. The Character and this repository are not
+official, sponsored, approved, or endorsed by pixiv Inc.
 
 1. Definitions
 
@@ -140,6 +203,10 @@ for which nakashunsan holds the rights necessary to grant this license.
 "Model Data" means any VRoid, VRM, 3D model, source model, texture, rig, or
 similar data used to create or represent the Character, whether or not it is
 included in this repository.
+
+"External Assets" means base models, meshes, clothing, presets, or other data
+provided by VRoid Studio or pixiv Inc., as well as clothing, hairstyles,
+textures, items, or other materials provided by a third party.
 
 "Third-Party Works" means illustrations and other works created by a person
 other than nakashunsan.
@@ -169,10 +236,15 @@ collection or standalone download.
 
 4. Model Data is reserved for nakashunsan
 
-Use of the Model Data is exclusively reserved for nakashunsan. No other person
-may use, operate, copy, modify, convert, upload, distribute, or make available
-any Model Data without nakashunsan's prior permission. Possession of, or access
-to, Model Data does not grant any license to use it.
+To the extent of the rights held by nakashunsan, use of the completed Aurora
+Model Data is exclusively reserved for nakashunsan. No other person may use,
+operate, copy, modify, convert, upload, distribute, or make available that Model
+Data without nakashunsan's prior permission. Possession of, or access to, Model
+Data does not grant any license to use it.
+
+This Section does not restrict independent use of an External Asset itself in
+accordance with the conditions established by its rights holder, nor does it
+claim that nakashunsan owns rights in that External Asset.
 
 5. Rights in works created by other creators
 
@@ -192,6 +264,11 @@ Repository Assets created by nakashunsan may be used as inputs for artificial
 intelligence systems, including for machine-learning training, fine-tuning, and
 AI-assisted image generation. AI-generated output may be created and published,
 subject to the other terms of this license and applicable law.
+
+The permission in this Section is limited to rights that nakashunsan has the
+authority to license. If a Repository Asset contains or depicts External
+Assets, that use is also subject to the terms, licenses, and other conditions
+established by VRoid Studio, pixiv Inc., or the applicable third party.
 
 Third-Party Works may not be used for machine-learning training, fine-tuning,
 dataset creation, prompts using an uploaded or linked copy of the work, or other
@@ -229,19 +306,73 @@ e. remove or obscure copyright notices included with Repository Assets.
 
 9. Ownership and reservation of rights
 
-nakashunsan retains all copyrights and other rights in the Character, Model
-Data, and original Repository Assets. A creator retains rights, if any, in that
-creator's own original contributions, subject to the rights in the underlying
-Character. This license grants limited permission to use the Character and
-Repository Assets; it does not transfer ownership. All rights not expressly
-granted are reserved. Moral rights and similar rights are retained to the
-extent provided by applicable law.
+nakashunsan retains all copyrights and other rights in the portions of the
+Character, Model Data, and Repository Assets originally created by nakashunsan.
+Rights in External Assets remain with their respective rights holders, including
+VRoid Studio, pixiv Inc., or the applicable third party.
 
-10. Third-party rights
+A creator retains rights, if any, in that creator's own original contributions,
+subject to the rights in the underlying Character and any External Assets used.
+This license grants limited permission only to the extent that nakashunsan has
+the authority to grant it; it does not transfer ownership. All rights not
+expressly granted are reserved. Moral rights and similar rights are retained to
+the extent provided by applicable law.
 
-This license covers only rights held by nakashunsan. You are responsible for
-obtaining any other permission required for your use and for complying with
-applicable laws, platform rules, and third-party rights.
+10. External rights and priority of upstream terms
+
+This license covers only rights held by nakashunsan that nakashunsan has the
+authority to license. It applies only to the extent permitted by the terms,
+licenses, and other conditions of VRoid Studio, pixiv Inc., or an applicable
+third party. If those conditions conflict with this license, the conditions
+established by the rights holder control with respect to the applicable
+External Asset.
+
+When using a VRoid Studio item or sample model with special conditions, or an
+asset obtained from a third party, you must identify and comply with those
+conditions. You are responsible for obtaining any other permission required for
+your use and for complying with applicable laws, platform rules, and
+third-party rights.
+
+10.1. Specific External Asset: Parker Set EC-Sky
+
+Aurora uses the VRoid outfit "Parker Set EC-Sky," sold by egu no Makutsu
+(eguの魔窟), with rights retained by @Schelmm39_Arvu.
+
+Product page: https://booth.pm/items/2228611
+Creator contact on X: @Schelmm39_Arvu
+Date of the reviewed terms: April 30, 2021
+
+The following conditions established by the creator apply to this outfit:
+
+a. Modification, including color changes and resizing with other tools, is
+   allowed. However, extracting part of a texture and combining it with an
+   outfit texture from another shop is prohibited. Combination with an outfit
+   you created yourself is allowed.
+b. When combining it with an outfit or model data from another shop, you must
+   also comply with the terms applicable to that material.
+c. The data may be worn in videos, images, and streams. Before any paid or
+   for-profit use, you must contact the creator at the account listed above.
+d. If an avatar wearing the outfit is published on a platform, it must be set
+   so that third parties cannot download or use it.
+e. The data and modified versions of it may not be distributed or sold, whether
+   for a fee or free of charge. Prohibited conduct includes uploading it in a
+   form downloadable by a third party, enabling third-party use on VRoid Hub,
+   and making it available from a pedestal in VRChat.
+f. You may not claim that you created the outfit or data, whether or not it was
+   modified.
+g. Credit for the outfit is optional. Copyright is retained by the creator.
+h. The creator accepts no liability for trouble arising from use of the data.
+   The terms, data, availability, and price may change without notice.
+
+This license does not grant permission to use the outfit or its textures for
+machine-learning training, fine-tuning, dataset creation, or AI-assisted
+generation. You must also obtain separate, express permission from
+@Schelmm39_Arvu before using a depiction of the outfit in an Aurora image for
+any of those purposes.
+
+This subsection is an explanatory English summary of the creator's Japanese
+terms dated April 30, 2021. If it conflicts with the creator's terms displayed
+on the product page, the terms on the product page control.
 
 11. No warranty and limitation of liability
 
