@@ -15,3 +15,6 @@ Aurora v1xの衣装コンセプト画像を生成するために使用したプ�
 - [`casual-A-city.md`](./casual-A-city.md)：街着案
 - [`casual-B-sporty.md`](./casual-B-sporty.md)：スポーティ案
 - [`casual-C-layered.md`](./casual-C-layered.md)：レイヤード案
+- [`wardrobe-D-urban-utility.md`](./wardrobe-D-urban-utility.md)：アーバンユーティリティ案
+- [`wardrobe-E-soft-knit.md`](./wardrobe-E-soft-knit.md)：ソフトニット案
+- [`wardrobe-F-layered-dress.md`](./wardrobe-F-layered-dress.md)：カジュアルレイヤードワンピース案
