@@ -10,6 +10,7 @@ nakashunsanのオリジナルキャラクター「Aurora」に関する素材を
 
 - [`Aurora v1`](./Aurora%20v1)：既存のAurora v1／v1.2画像資料
 - [`Aurora v1x`](./Aurora%20v1x)：Aurora v1を基にしたオリジナル衣装のデザインと制作物
+- [`Aurora-v1x-model`](./Aurora-v1x-model)：Aurora v1xのVRoid衣装・VRM制作ワークスペース
 
 ## ライセンスについて
 
