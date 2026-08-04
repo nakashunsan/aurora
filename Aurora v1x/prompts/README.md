@@ -18,3 +18,6 @@ Aurora v1xの衣装コンセプト画像を生成するために使用したプ�
 - [`wardrobe-D-urban-utility.md`](./wardrobe-D-urban-utility.md)：アーバンユーティリティ案
 - [`wardrobe-E-soft-knit.md`](./wardrobe-E-soft-knit.md)：ソフトニット案
 - [`wardrobe-F-layered-dress.md`](./wardrobe-F-layered-dress.md)：カジュアルレイヤードワンピース案
+- [`menswear-G-clean-tech.md`](./menswear-G-clean-tech.md)：クリーンテック・メンズ案
+- [`menswear-H-modern-street.md`](./menswear-H-modern-street.md)：モダンストリート・メンズ案
+- [`menswear-I-minimal-smart.md`](./menswear-I-minimal-smart.md)：ミニマルスマートカジュアル・メンズ案
