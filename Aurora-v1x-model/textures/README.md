@@ -22,8 +22,9 @@ textures/
 例：
 
 ```text
-tops/long-coat-shirt-jacket-base.png
-tops/mock-neck-inner-base.png
+tops/outer-shirt-jacket.png
+tops/inner-black-top.png
+tops/mock-neck-skin-overlay.png
 bottoms/wrap-panel-base.png
 legwear/black-leggings-base.png
 shoes/lace-up-shoes-base.png
