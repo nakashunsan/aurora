@@ -47,6 +47,21 @@ VRoid Studio 2.14.0の標準「ペンシルスカート（五分丈）」を型�
 
 `layered-wrap-v1.png`はボトム単体のカスタムアイテムとして作業モデルへ保存済みです。
 
+## 衣装C・細身パンツ初稿
+
+VRoid Studio 2.14.0の標準「ズボン（折り目なし）」を型紙にして、チャコールブラックの
+細身テクニカルパンツを制作しました。腰ラップを主役にするため装飾は抑え、布の皺、
+縫い目、ガンメタルのバックル、足首の細い青緑ラインだけを加えています。
+
+- `slim-pants-default-texture.png`：標準型紙の作業用書き出し
+- `slim-pants-uv-guide.png`：標準型紙のUVガイド
+- `slim-pants-imagegen-source.png`：ImageGenが生成した1254×1254の元画像
+- `slim-pants-v1.png`：VRoidへ読み込む1024×1024の採用テクスチャ
+- `slim-pants-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
+
+`slim-pants-v1.png`は腰ラップのカスタムボトムへ追加し、1つのボトムアイテムとして
+同時着用できる状態にしています。
+
 推奨構成：
 
 ```text
