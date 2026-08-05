@@ -62,6 +62,20 @@ VRoid Studio 2.14.0の標準「ズボン（折り目なし）」を型紙にし�
 `slim-pants-v1.png`は腰ラップのカスタムボトムへ追加し、1つのボトムアイテムとして
 同時着用できる状態にしています。
 
+## 衣装C・レースアップシューズ初稿
+
+VRoid Studio 2.14.0の標準「スニーカー」を型紙にして、黒のレースアップシューズを
+制作しました。マットレザーとテクニカル素材の差、黒い靴紐、ガンメタルのアイレットを
+使い、つま先側の細い青緑ラインだけを衣装Cとの共通アクセントにしています。
+
+- `lace-up-boots-default-texture.png`：標準型紙の作業用書き出し
+- `lace-up-boots-uv-guide.png`：標準型紙のUVガイド
+- `lace-up-boots-imagegen-source.png`：ImageGenが生成した1254×1254の元画像
+- `lace-up-boots-v1.png`：VRoidへ読み込む1024×1024の採用テクスチャ
+- `lace-up-boots-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
+
+`lace-up-boots-v1.png`は靴カテゴリの新規カスタムアイテムとして作業モデルへ保存済みです。
+
 推奨構成：
 
 ```text
