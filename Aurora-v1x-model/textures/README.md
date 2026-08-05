@@ -12,10 +12,11 @@ VRoid Studio 2.14.0の標準「パーカー」メッシュを、前開きのカ�
 - `outer-shirt-jacket-imagegen-source.png`：ImageGenが生成した1280×1280の元画像
 - `outer-shirt-jacket-alpha-1280.png`：黒背景を透明化した中間画像
 - `outer-shirt-jacket-v1.png`：VRoidへ読み込む2048×2048の採用テクスチャ
+- `outer-shirt-jacket-hoodless-v2.png`：大小2つのフードUV島だけを透明化した最終テクスチャ
 - `outer-shirt-jacket-v1.prompt.md`：生成プロンプトと後処理手順
 
-`outer-shirt-jacket-v1.png`は作業モデルへ読み込み、袖口、ポケット、前合わせ、ボタンの
-UV位置を確認済みです。
+作業モデルでは`outer-shirt-jacket-hoodless-v2.png`を使用し、袖口、ポケット、ボタン、
+前合わせを維持したままフードを非表示にしています。
 
 ## 衣装C・黒インナー初稿
 
