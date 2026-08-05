@@ -1,0 +1,15 @@
+# Editable and exported model data is private and must not be published.
+*.vroid
+*.vrm
+*.vroidcustomitem
+*.xwear
+*.xavatar
+*.xroid
+*.fbx
+*.blend
+
+# Keep exported files local.
+exports/*
+!exports/README.md
+source/*
+!source/README.md
