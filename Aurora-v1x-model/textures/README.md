@@ -31,11 +31,12 @@ VRoid Studio 2.14.0の標準「Tシャツ」メッシュ用に、チャコール
 - `inner-black-top-v2.png`：背景を正しく透過し、ジャケットから出る袖領域を除いた統合用テクスチャ
 - `inner-black-top-v3.png`：全身確認で表示幅を絞った比較用テクスチャ
 - `inner-black-top-v4.png`：ジャケット開口部に合わせて表示幅を再調整した最終テクスチャ
+- `inner-black-top-v5.png`：鎖骨を覆いつつ胴側を細く保った最終テクスチャ
 - `inner-black-top-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
 
-統合トップスでは`inner-black-top-v4.png`を使用します。旧インナーレイヤーを削除し、
+統合トップスでは`inner-black-top-v5.png`を使用します。旧インナーレイヤーを削除し、
 袖UVと脇側のUVを透明化することで、肩と胴体でジャケットを突き抜けていた黒い部分を
-解消しました。
+解消しました。上端だけ表示幅を広げ、首・鎖骨・胸上部も覆っています。
 
 ## 衣装C・非対称腰レイヤー初稿
 
@@ -47,9 +48,10 @@ VRoid Studio 2.14.0の標準「ペンシルスカート（五分丈）」を型�
 - `layered-pencil-skirt-uv-guide.png`：標準型紙のUVガイド
 - `layered-wrap-imagegen-source.png`：ImageGenが生成した1254×1254の元画像
 - `layered-wrap-v1.png`：VRoidへ読み込む1024×1024の採用テクスチャ
+- `layered-wrap-v2.png`：下端を短縮してパンツとの境界を整理した最終テクスチャ
 - `layered-wrap-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
 
-`layered-wrap-v1.png`はボトム単体のカスタムアイテムとして作業モデルへ保存済みです。
+`layered-wrap-v2.png`は細身パンツと統合したカスタムボトムへ保存済みです。
 
 ## 衣装C・細身パンツ初稿
 
