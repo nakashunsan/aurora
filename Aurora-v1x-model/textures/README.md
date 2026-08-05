@@ -17,6 +17,21 @@ VRoid Studio 2.14.0の標準「パーカー」メッシュを、前開きのカ�
 `outer-shirt-jacket-v1.png`は作業モデルへ読み込み、袖口、ポケット、前合わせ、ボタンの
 UV位置を確認済みです。
 
+## 衣装C・黒インナー初稿
+
+VRoid Studio 2.14.0の標準「Tシャツ」メッシュ用に、チャコールブラックのインナーを
+制作しました。パーカーのカスタムトップスへTシャツテンプレートを追加し、1つの
+トップスアイテムとして同時着用できる状態まで確認済みです。
+
+- `inner-tshirt-uv-guide.png`：VRoid Studioから書き出した1024×2048のUVガイド
+- `inner-tshirt-default-texture.png`：標準Tシャツの作業用書き出し
+- `inner-black-top-imagegen-reference.png`：ImageGenが生成した参照画像
+- `inner-black-top-v1.png`：VRoidへ読み込む1024×2048の採用テクスチャ
+- `inner-black-top-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
+
+Tシャツメッシュが肩付近でジャケットより外へ出る箇所は、次工程で形状パラメータを
+調整します。
+
 推奨構成：
 
 ```text
