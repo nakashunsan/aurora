@@ -33,6 +33,20 @@ VRoid Studio 2.14.0の標準「Tシャツ」メッシュ用に、チャコール
 統合トップスでは`inner-black-top-v2.png`を使用します。Tシャツの袖長を0に設定し、
 袖UVを透明化することで、肩付近でジャケットより外へ出ていた黒い部分を解消しました。
 
+## 衣装C・非対称腰レイヤー初稿
+
+VRoid Studio 2.14.0の標準「ペンシルスカート（五分丈）」を型紙にして、男性向けの
+ストリートウェアとして見えるラップパネルを制作しました。黒い斜めの外布、水色の
+内布、右腰の小さなDリングで衣装Cの腰まわりを再現しています。
+
+- `layered-pencil-skirt-default-texture.png`：標準型紙の作業用書き出し
+- `layered-pencil-skirt-uv-guide.png`：標準型紙のUVガイド
+- `layered-wrap-imagegen-source.png`：ImageGenが生成した1254×1254の元画像
+- `layered-wrap-v1.png`：VRoidへ読み込む1024×1024の採用テクスチャ
+- `layered-wrap-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
+
+`layered-wrap-v1.png`はボトム単体のカスタムアイテムとして作業モデルへ保存済みです。
+
 推奨構成：
 
 ```text
