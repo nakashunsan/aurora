@@ -27,10 +27,11 @@ VRoid Studio 2.14.0の標準「Tシャツ」メッシュ用に、チャコール
 - `inner-tshirt-default-texture.png`：標準Tシャツの作業用書き出し
 - `inner-black-top-imagegen-reference.png`：ImageGenが生成した参照画像
 - `inner-black-top-v1.png`：VRoidへ読み込む1024×2048の採用テクスチャ
+- `inner-black-top-v2.png`：背景を正しく透過し、ジャケットから出る袖領域を除いた統合用テクスチャ
 - `inner-black-top-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
 
-Tシャツメッシュが肩付近でジャケットより外へ出る箇所は、次工程で形状パラメータを
-調整します。
+統合トップスでは`inner-black-top-v2.png`を使用します。Tシャツの袖長を0に設定し、
+袖UVを透明化することで、肩付近でジャケットより外へ出ていた黒い部分を解消しました。
 
 推奨構成：
 
