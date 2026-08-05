@@ -48,10 +48,15 @@ VRoid Studio 2.14.0の標準「ペンシルスカート（五分丈）」を型�
 - `layered-pencil-skirt-uv-guide.png`：標準型紙のUVガイド
 - `layered-wrap-imagegen-source.png`：ImageGenが生成した1254×1254の元画像
 - `layered-wrap-v1.png`：VRoidへ読み込む1024×1024の採用テクスチャ
-- `layered-wrap-v2.png`：下端を短縮してパンツとの境界を整理した最終テクスチャ
+- `layered-wrap-v2.png`：下端を透明化して短縮した旧比較版
+- `layered-wrap-v3-imagegen-source.png`：水色の斜め境界を再生成した1254×1254の元画像
+- `layered-wrap-v3.png`：再生成結果を既存UVへ合わせた比較版
+- `layered-wrap-v4.png`：裾を透明カットせず、VRoidの形状で丈を調整する採用ベース
 - `layered-wrap-v1.prompt.md`：生成プロンプト、後処理、読み込み手順
 
-`layered-wrap-v2.png`は細身パンツと統合したカスタムボトムへ保存済みです。
+作業モデルでは`layered-wrap-v4.png`を使用し、「スカートの長さ」35.00で丈を調整しています。
+水色境界のUV継ぎ目はVRoid Studioの3Dペイントで局所補修し、細身パンツと統合した
+カスタムボトムへ保存済みです。
 
 ## 衣装C・細身パンツ初稿
 
