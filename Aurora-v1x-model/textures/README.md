@@ -2,6 +2,21 @@
 
 Aurora v1x用に制作するオリジナル衣装テクスチャを保存します。
 
+## 衣装C・外シャツ初稿
+
+VRoid Studio 2.14.0の標準「パーカー」メッシュを、前開きのカジュアルジャケットとして
+使用しています。第三者衣装のテクスチャは使用していません。
+
+- `hoodie-uv-guide.png`：VRoid Studioから書き出した2048×2048のUVガイド
+- `hoodie-default-texture.png`：VRoid Studio標準テクスチャの作業用書き出し
+- `outer-shirt-jacket-imagegen-source.png`：ImageGenが生成した1280×1280の元画像
+- `outer-shirt-jacket-alpha-1280.png`：黒背景を透明化した中間画像
+- `outer-shirt-jacket-v1.png`：VRoidへ読み込む2048×2048の採用テクスチャ
+- `outer-shirt-jacket-v1.prompt.md`：生成プロンプトと後処理手順
+
+`outer-shirt-jacket-v1.png`は作業モデルへ読み込み、袖口、ポケット、前合わせ、ボタンの
+UV位置を確認済みです。
+
 推奨構成：
 
 ```text
